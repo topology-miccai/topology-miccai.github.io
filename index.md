@@ -2,122 +2,69 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<h1 style="text-align: center;">Overview</h1>
 
-[Link to another page](./another-page.html).
+A segmentation algorithm, even with high per-pixel accuracy, could make errors on fine-scale structures, such as small instances, instances with multiple connected components, and thin connections. Such fine-scale structures may be crucial in analyzing the functionality of the objects. For example, small pixel-level errors disconnecting the segmentation of thin parts such as ropes and handles may lead to significant mistakes in the planning of robot actions, e.g., dragging or grasping. In biomedical imaging, the correct delineation of thin objects such as neuron membranes and vessels is crucial in providing accurate quantification of the underlying system. A broken connection or a missing component could cause catastrophic functional mistakes.
 
-There should be whitespace between paragraphs.
+This tutorial aims to cover recent advances to solve the problem from the topology perspective. We will first discuss several interesting topology-aware loss functions, which help to learn to segment with correct topology for different kinds of images with fine-scale structures. Besides focusing on the topology of images with only one foreground class, we also introduce new losses to encode topological interactions among different classes (e.g., containment and exclusion). Furthermore, different from pixel-wise feature representations, we discuss direct modeling and reasoning about the structures by adopting probabilistic models. For each research sub-topic, we will give a concrete introduction of the contained problems/tasks, and the current research progress. We hope the audience, not only the graduate students but also the researchers new in this area, can benefit from this tutorial and learn the principle problems and cutting-edge approaches of topological analysis for biomedical images.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Topology-preserving deep image segmentation
+Image segmentation, i.e., assigning labels to all pixels of an input image, is crucial in many computer vision tasks. State-of-the-art deep segmentation methods learn high-quality feature representations through an end-to-end trained deep network and achieve satisfactory per-pixel accuracy. However, these segmentation algorithms are still prone to make errors on fine-scale structures, such as small object instances, instances with multiple connected components, and thin connections. These fine-scale structures may be crucial in analyzing the functionality of the objects. For example, accurate extraction of thin parts such as ropes and handles is crucial in planning robot actions, e.g., dragging or grasping. In biomedical images, correct delineation of thin objects such as neuron membranes and vessels is crucial in providing accurate morphological and structural quantification of the underlying system. A broken connection or a missing component may only induce marginal per-pixel error but can cause catastrophic functional mistakes.
 
-# Header 1
+## Learning topological interactions for multi-class medical image segmentation
+Deep learning methods have achieved impressive performance for multi-class medical image segmentation. However, they are limited in their ability to encode topological interactions among different classes
+(e.g., containment and exclusion). These constraints naturally arise in biomedical images and can be crucial in improving segmentation quality. In this paper, we introduce a novel topological interaction module to encode the topological interactions into a deep neural network. The implementation is completely convolution-based and thus can be very efficient. This empowers us to incorporate the constraints into end-to-end training and enrich the feature representation of neural networks.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+## Learning probabilistic topological representations
+Accurate delineation of fine-scale structures is a very important yet challenging problem. Existing methods use topological information as an additional training loss, but are ultimately making pixel-wise predictions. In this paper, we propose the first deep learning-based method to learn topological/structural representations. We use discrete Morse theory and persistent homology to construct a one-parameter family of structures as the topological/structural representation space. Furthermore, we learn a probabilistic model that can perform inference tasks in such a topological/structural representation space. Our method generates true structures rather than pixel maps, leading to better topological integrity in automatic segmentation tasks. It also facilitates semi-automatic interactive annotation/proofreading via the sampling of structures and structure-aware uncertainty.
 
 * * *
 
-### Here is an unordered list:
+<h1 style="text-align: center;">Schedule and material</h1>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Time zone: PDT
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| Time |                           Topic                          | Slides | Presenter |
+|:----:|:--------------------------------------------------------:|:------:|:---------:|
+| TODO |     Overview, motivation and theoretical foundations     |  TODO  |    TODO   |
+| TODO |     Topological analysis methodology I (segmentation)    |  TODO  |    TODO   |
+| TODO | Topological analysis methodology II (un/semi-supervised) |  TODO  |    TODO   |
+| TODO |                           Break                          |  TODO  |    TODO   |
+| TODO |               Graph learning with topology               |  TODO  |    TODO   |
+| TODO |                       Applications                       |  TODO  |    TODO   |
 
 
-### Definition lists can be used with HTML syntax.
+* * *
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<h1 style="text-align: center;">Organizers</h1>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pb0m{border-color:#ffffff;text-align:center;vertical-align:bottom}
+.tg .tg-c3ow{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-pb0m"><img src="/imgs/circle-cc.png" width="80%" height="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-bm.png" width="80%" height="80%"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://chaochen.github.io/">Chao Chen</a></td>
+    <td class="tg-c3ow"><a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a></td>
+  </tr>
+  <tr>
+    <td class="tg-pb0m"><img src="/imgs/circle-xh.png" width="80%" height="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-sg.png" width="80%" height="80%"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://cs.stonybrook.edu/~xiaolhu/">Xiaoling Hu</a></td>
+    <td class="tg-c3ow"><a href="https://saumya-gupta-26.github.io/">Saumya Gupta</a></td>
+  </tr>
+</tbody>
+</table>
 
-```
-The final element.
-```
