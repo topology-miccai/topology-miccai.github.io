@@ -26,12 +26,12 @@ Time zone: PDT
 
 | Time |                           Topic                          | Slides | Presenter |
 |:----:|:--------------------------------------------------------:|:------:|:---------:|
-| TODO |     Overview, motivation and theoretical foundations     |  TODO  |    TODO   |
-| TODO |     Topological analysis methodology I (segmentation)    |  TODO  |    TODO   |
-| TODO | Topological analysis methodology II (un/semi-supervised) |  TODO  |    TODO   |
-| TODO |                           Break                          |  TODO  |    TODO   |
-| TODO |               Graph learning with topology               |  TODO  |    TODO   |
-| TODO |                       Applications                       |  TODO  |    TODO   |
+| TBD  |     Overview, motivation and theoretical foundations     |  TBD   |    TBD    |
+| TBD  |     Topological analysis methodology I (segmentation)    |  TBD   |    TBD    |
+| TBD  | Topological analysis methodology II (un/semi-supervised) |  TBD   |    TBD    |
+| TBD  |                           Break                          |  TBD   |    TBD    |
+| TBD  |               Graph learning with topology               |  TBD   |    TBD    |
+| TBD  |                       Applications                       |  TBD   |    TBD    |
 
 
 * * *
