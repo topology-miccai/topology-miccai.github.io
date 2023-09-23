@@ -38,8 +38,6 @@ Time zone: PDT
 
 <h1 style="text-align: center;">Organizers</h1>
 
-
-</style>
 <table class="tg">
 <tbody>
   <tr>
