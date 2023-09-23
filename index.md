@@ -42,15 +42,15 @@ Time zone: PDT
 <tbody>
   <tr>
     <td class="tg-pb0m"><img src="/imgs/circle-cc.png" width="80%"></td>
-    <td class="tg-pb0m"><img src="/imgs/circle-bm.png" width="80%" height="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-bm.png" width="80%"></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://chaochen.github.io/">Chao Chen</a></td>
     <td class="tg-c3ow"><a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a></td>
   </tr>
   <tr>
-    <td class="tg-pb0m"><img src="/imgs/circle-xh.png" width="80%" height="80%"></td>
-    <td class="tg-pb0m"><img src="/imgs/circle-sg.png" width="80%" height="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-xh.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-sg.png" width="80%"></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://huxiaoling.github.io/">Xiaoling Hu</a></td>
