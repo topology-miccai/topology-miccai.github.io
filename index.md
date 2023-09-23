@@ -38,14 +38,7 @@ Time zone: PDT
 
 <h1 style="text-align: center;">Organizers</h1>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pb0m{border-color:#ffffff;text-align:center;vertical-align:bottom}
-.tg .tg-c3ow{border-color:#ffffff;text-align:center;vertical-align:top}
+
 </style>
 <table class="tg">
 <tbody>
@@ -62,7 +55,7 @@ Time zone: PDT
     <td class="tg-pb0m"><img src="/imgs/circle-sg.png" width="80%" height="80%"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://cs.stonybrook.edu/~xiaolhu/">Xiaoling Hu</a></td>
+    <td class="tg-c3ow"><a href="https://huxiaoling.github.io/">Xiaoling Hu</a></td>
     <td class="tg-c3ow"><a href="https://saumya-gupta-26.github.io/">Saumya Gupta</a></td>
   </tr>
 </tbody>
