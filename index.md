@@ -41,7 +41,7 @@ Time zone: PDT
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-pb0m"><img src="/imgs/circle-cc.png" width="80%" height="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-cc.png" width="80%"></td>
     <td class="tg-pb0m"><img src="/imgs/circle-bm.png" width="80%" height="80%"></td>
   </tr>
   <tr>
