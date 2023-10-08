@@ -24,17 +24,17 @@ Accurate delineation of fine-scale structures is a very important yet challengin
 
 Time zone: PDT
 
-|          Time        |                           Topic                           | Slides |       Presenter      |
-|:--------------------:|:---------------------------------------------------------:|:------:|:--------------------:|
-|      08:30 - 08:45   |               Opening Remarks, and Overview               |  TBD   |       Chao Chen      |
-|      08:45 - 09:30   |          Topology-aware Deep Image Segmentation           |  TBD   |      Xiaoling Hu     |
-|      09:30 - 10:15   |     Discrete Morse Theory and Topological Uncertainty     |  TBD   |     Saumya Gupta     |
-|      10:15 - 10:45   |                       Coffee Break                        |  TBD   |           -          |
-|      10:45 - 11:15   |           Topological Analysis and Applications           |  TBD   |       Chao Chen      |
-|      11:15 - 11:25   |                           Break                           |  TBD   |           -          |
-|      11:25 - 11:55   |           Topology in Medical Image Segmentation          |  TBD   |     Bjoern Menze     |
-|      11:55 - 12:25   |                       Betti Matching                      |  TBD   | Johannes C. Paetzold |
-|      12:25 - 12:30   |                      Closing Remarks                      |  TBD   |       Chao Chen      |
+|          Time            |                           Topic                           | Slides |       Presenter      |
+|:------------------------:|:---------------------------------------------------------:|:------:|:--------------------:|
+|          08:30 - 08:45   |               Opening Remarks, and Overview               |  TBD   |       Chao Chen      |
+|          08:45 - 09:30   |          Topology-aware Deep Image Segmentation           |  TBD   |      Xiaoling Hu     |
+|          09:30 - 10:15   |     Discrete Morse Theory and Topological Uncertainty     |  TBD   |     Saumya Gupta     |
+|          10:15 - 10:45   |                       Coffee Break                        |  TBD   |           -          |
+|          10:45 - 11:15   |           Topological Analysis and Applications           |  TBD   |       Chao Chen      |
+|          11:15 - 11:25   |                           Break                           |  TBD   |           -          |
+|          11:25 - 11:55   |           Topology in Medical Image Segmentation          |  TBD   |     Bjoern Menze     |
+|          11:55 - 12:25   |                       Betti Matching                      |  TBD   | Johannes C. Paetzold |
+|          12:25 - 12:30   |                      Closing Remarks                      |  TBD   |       Chao Chen      |
 
 * * *
 
