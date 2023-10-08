@@ -66,7 +66,7 @@ Time zone: PDT
     <td class="tg-pb0m"><img src="/imgs/circle-sg.png" width="80%"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="[https://saumya-gupta-26.github.io/](https://scholar.google.de/citations?user=7Bv7PmgAAAAJ&hl=de)">Johannes C. Paetzold</a></td>
+    <td class="tg-c3ow"><a href="https://scholar.google.de/citations?user=7Bv7PmgAAAAJ&hl=de">Johannes C. Paetzold</a></td>
     <td class="tg-c3ow"><a href="https://saumya-gupta-26.github.io/">Saumya Gupta</a></td>
   </tr>
 </tbody>
