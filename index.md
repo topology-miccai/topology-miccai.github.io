@@ -2,6 +2,28 @@
 layout: default
 ---
 
+<h1 style="text-align: center;">Schedule and material</h1>
+
+Time zone: PDT
+
+Venue: Vancouver Convention Center East Building Level 1 - Meeting Room 3
+
+Zoom: [Link](https://us02web.zoom.us/j/89550470833?pwd=bzdFTlJNWUxWeDlyTlp1OGc4bDZrUT09) 
+
+|          Time            |                           Topic                           | Slides |       Presenter      |
+|:------------------------:|:---------------------------------------------------------:|:------:|:--------------------:|
+|          08:30 - 08:45   |               Opening Remarks, and Overview               |  TBD   |       Chao Chen      |
+|          08:45 - 09:30   |          Topology-Aware Deep Image Segmentation           |  TBD   |      Xiaoling Hu     |
+|          09:30 - 10:15   |     Discrete Morse Theory and Topological Uncertainty     |  TBD   |     Saumya Gupta     |
+|          10:15 - 10:45   |                       Coffee Break                        |  TBD   |           -          |
+|          10:45 - 11:15   |           Topological Analysis and Applications           |  TBD   |       Chao Chen      |
+|          11:15 - 11:45   |           Topology in Medical Image Segmentation          |  TBD   |     Bjoern Menze     |
+|          11:45 - 11:55   |                           Break                           |  TBD   |           -          |
+|          11:55 - 12:25   |                       Betti Matching                      |  TBD   | Johannes C. Paetzold |
+|          12:25 - 12:30   |                      Closing Remarks                      |  TBD   |       Chao Chen      |
+
+* * *
+
 <h1 style="text-align: center;">Overview</h1>
 
 A segmentation algorithm, even with high per-pixel accuracy, could make errors on fine-scale structures, such as small instances, instances with multiple connected components, and thin connections. Such fine-scale structures may be crucial in analyzing the functionality of the objects. For example, small pixel-level errors disconnecting the segmentation of thin parts such as ropes and handles may lead to significant mistakes in the planning of robot actions, e.g., dragging or grasping. In biomedical imaging, the correct delineation of thin objects such as neuron membranes and vessels is crucial in providing accurate quantification of the underlying system. A broken connection or a missing component could cause catastrophic functional mistakes.
@@ -16,24 +38,6 @@ Accurate delineation of fine-scale structures is a very important yet challengin
 
 ## Topological Data Analysis and Applications
 Topological data analysis plays an important role in more general scenarios, including pathology image analysis and graph neural networks (GNNs), which represent cutting-edge approaches at the intersection of mathematics, computer science, and medical imaging. TDA allows us to uncover hidden patterns and structures within data by leveraging concepts from algebraic topology. As these fields continue to advance, we can anticipate exciting breakthroughs and novel applications that will reshape the way we understand and utilize data.
-
-* * *
-
-<h1 style="text-align: center;">Schedule and material</h1>
-
-Time zone: PDT
-
-|          Time            |                           Topic                           | Slides |       Presenter      |
-|:------------------------:|:---------------------------------------------------------:|:------:|:--------------------:|
-|          08:30 - 08:45   |               Opening Remarks, and Overview               |  TBD   |       Chao Chen      |
-|          08:45 - 09:30   |          Topology-Aware Deep Image Segmentation           |  TBD   |      Xiaoling Hu     |
-|          09:30 - 10:15   |     Discrete Morse Theory and Topological Uncertainty     |  TBD   |     Saumya Gupta     |
-|          10:15 - 10:45   |                       Coffee Break                        |  TBD   |           -          |
-|          10:45 - 11:15   |           Topological Analysis and Applications           |  TBD   |       Chao Chen      |
-|          11:15 - 11:25   |                           Break                           |  TBD   |           -          |
-|          11:25 - 11:55   |           Topology in Medical Image Segmentation          |  TBD   |     Bjoern Menze     |
-|          11:55 - 12:25   |                       Betti Matching                      |  TBD   | Johannes C. Paetzold |
-|          12:25 - 12:30   |                      Closing Remarks                      |  TBD   |       Chao Chen      |
 
 * * *
 
@@ -54,18 +58,18 @@ Time zone: PDT
   <tr>
     <td class="tg-pb0m"><img src="/imgs/circle-cc.png" width="80%"></td>
     <td class="tg-pb0m"><img src="/imgs/circle-bm.png" width="80%"></td>
-    <td class="tg-pb0m"><img src="/imgs/circle-xh.png" width="80%"></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://chaochen.github.io/">Chao Chen</a></td>
     <td class="tg-c3ow"><a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a></td>
-    <td class="tg-c3ow"><a href="https://huxiaoling.github.io/">Xiaoling Hu</a></td>
   </tr>
   <tr>
-    <td class="tg-pb0m"><img src="/imgs/JP.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-xh.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-jp.png" width="80%"></td>
     <td class="tg-pb0m"><img src="/imgs/circle-sg.png" width="80%"></td>
   </tr>
   <tr>
+    <td class="tg-c3ow"><a href="https://huxiaoling.github.io/">Xiaoling Hu</a></td>
     <td class="tg-c3ow"><a href="https://scholar.google.de/citations?user=7Bv7PmgAAAAJ&hl=de">Johannes C. Paetzold</a></td>
     <td class="tg-c3ow"><a href="https://saumya-gupta-26.github.io/">Saumya Gupta</a></td>
   </tr>
