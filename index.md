@@ -4,7 +4,7 @@ layout: default
 
 <h1 style="text-align: center;">Schedule and material</h1>
 
-**Time zone**: PDT
+**Date/Time**: Oct 12 Thursday 08:30 AM - 12:30 PM PDT
 
 **Venue**: Vancouver Convention Center East Building Level 1 - Meeting Room 3
 
