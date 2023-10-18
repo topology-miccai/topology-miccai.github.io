@@ -10,6 +10,8 @@ layout: default
 
 **Zoom**: [Link](https://us02web.zoom.us/j/89550470833?pwd=bzdFTlJNWUxWeDlyTlp1OGc4bDZrUT09) 
 
+**Slides**: The slides are hosted [here](https://drive.google.com/drive/folders/1YypeRgtjy3Jc-fg7PY2Y5LsQPFzussk6?usp=sharing)
+
 |     Time      |                           Topic                           | Slides |       Presenter      |
 |:-------------:|:---------------------------------------------------------:|:------:|:--------------------:|
 | 08:30 - 08:45 |               Opening Remarks, and Overview               |  TBD   |       Chao Chen      |
