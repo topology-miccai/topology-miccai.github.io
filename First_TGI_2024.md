@@ -87,7 +87,7 @@ We welcome submissions that present how TDA techniques, slowly or combined with 
   </tr>
   <tr>
     <td class="tg-pb0m"><img src="/imgs/circle-cf.png" width="80%"></td>
-    <td class="tg-pb0m"><img src="/imgs/circle-qg.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-qh.png" width="80%"></td>
     <td class="tg-pb0m"><img src="/imgs/circle-rp.png" width="80%"></td>
   </tr>
   <tr>
