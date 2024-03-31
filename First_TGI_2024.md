@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <h1 style="text-align: center;">Schedule and material</h1>
 
 **Date/Time**: TBD
