@@ -1,3 +1,9 @@
+---
+layout: default
+title: The First Workshop on Topology and Graph-Informed Imaging Informatics
+description: MICCAI 2024 Workshop
+---
+
 <h1 style="text-align: center;">Schedule and material</h1>
 
 **Date/Time**: TBD
