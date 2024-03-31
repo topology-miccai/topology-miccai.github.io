@@ -12,7 +12,7 @@ layout: default
 
 **Slides**: The slides are hosted [here](https://drive.google.com/drive/folders/1YypeRgtjy3Jc-fg7PY2Y5LsQPFzussk6?usp=sharing)
 
-**Another link**: [Workshop](workshop_first_2024.md)
+**Workshop link**: [Workshop](First_TGI_2024.md)
 
 |     Time      |                           Topic                           |       Presenter      |
 |:-------------:|:---------------------------------------------------------:|:--------------------:|
