@@ -68,6 +68,7 @@ We welcome submissions that present how TDA techniques, slowly or combined with 
   <tr>
     <td class="tg-pb0m"><img src="/imgs/circle-cc.png" width="80%"></td>
     <td class="tg-pb0m"><img src="/imgs/circle-bm.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/yash.png" width="80%"></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://chaochen.github.io/">Chao Chen</a></td>
