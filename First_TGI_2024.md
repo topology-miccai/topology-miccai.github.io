@@ -68,7 +68,7 @@ We welcome submissions that present how TDA techniques, slowly or combined with 
   <tr>
     <td class="tg-pb0m"><img src="/imgs/circle-cc.png" width="80%"></td>
     <td class="tg-pb0m"><img src="/imgs/circle-bm.png" width="80%"></td>
-    <td class="tg-pb0m"><img src="/imgs/yash.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-ys.pngg" width="80%"></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://chaochen.github.io/">Chao Chen</a></td>
@@ -85,6 +85,25 @@ We welcome submissions that present how TDA techniques, slowly or combined with 
     <td class="tg-c3ow"><a href="https://scholar.google.de/citations?user=7Bv7PmgAAAAJ&hl=de">Johannes C. Paetzold</a></td>
     <td class="tg-c3ow"><a href="https://saumya-gupta-26.github.io/">Saumya Gupta</a></td>
   </tr>
+  <tr>
+    <td class="tg-pb0m"><img src="/imgs/circle-cf.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-qg.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-rp.png" width="80%"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://scholar.google.com/citations?user=iNloCF0AAAAJ&hl=en">Colleen Farrelly</a></td>
+    <td class="tg-c3ow"><a href="https://scholar.google.de/citations?user=7Bv7PmgAAAAJ&hl=de">Quincy Hathaway</a></td>
+    <td class="tg-c3ow"><a href="https://scholar.google.com/citations?hl=en&user=lv85xksAAAAJ&view_op=list_works&sortby=pubdate">Rahul Paul</a></td>
+  </tr>
+    <tr>
+    <td class="tg-pb0m"><img src="/imgs/circle-pr.png" width="80%"></td>
+    <td class="tg-pb0m"><img src="/imgs/circle-jr.png" width="80%"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://www.sci.utah.edu/people/prosen.html">Paul Rosen</a></td>
+    <td class="tg-c3ow"><a href="https://scholar.google.de/citations?user=7Bv7PmgAAAAJ&hl=de">Jennifer Rozenblit</a></td>
+  </tr>
+  
 </tbody>
 </table>
 
