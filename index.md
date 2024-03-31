@@ -12,7 +12,7 @@ layout: default
 
 **Slides**: The slides are hosted [here](https://drive.google.com/drive/folders/1YypeRgtjy3Jc-fg7PY2Y5LsQPFzussk6?usp=sharing)
 
-**Workshop**: [The First Workshop on Topology and Graph-Informed Imaging Informatics](First_TGI_2024.md)
+**Workshop**: [The First Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](First_TGI_2024.md)
 
 |     Time      |                           Topic                           |       Presenter      |
 |:-------------:|:---------------------------------------------------------:|:--------------------:|
