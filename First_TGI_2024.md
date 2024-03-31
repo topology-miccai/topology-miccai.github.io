@@ -73,6 +73,7 @@ We welcome submissions that present how TDA techniques, slowly or combined with 
   <tr>
     <td class="tg-c3ow"><a href="https://chaochen.github.io/">Chao Chen</a></td>
     <td class="tg-c3ow"><a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a></td>
+    <td class="tg-c3ow"><a href="https://www.mayo.edu/research/faculty/singh-yash-ph-d-m-e/bio-20507491">Yash Singh</a></td>
   </tr>
   <tr>
     <td class="tg-pb0m"><img src="/imgs/circle-xh.png" width="80%"></td>
