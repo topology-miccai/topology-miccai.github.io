@@ -15,7 +15,7 @@ description: MICCAI 2024 Workshop
 <h1 style="text-align: center;">Submission Guidelines</h1>
 
 - Papers: Full papers (maximum to 12 pages, including references) formatted in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS style</a> (Template: <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj">Overleaf</a>). Please also refer to <a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v13">Instructions for Authors.
-- Submission Portal: https://cmt3.research.microsoft.com/TGI32024
+- Submission Portal: <a href="https://cmt3.research.microsoft.com/TGI32024">
 - Review: The review is double-blind. Reviewers will be chosen among experts in the medical image computing community.
 - Presentations: A few with the most original contributions will be selected for oral or poster presentations.
 
