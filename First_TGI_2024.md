@@ -4,6 +4,8 @@ title: The First Workshop on Topology- and Graph-Informed Imaging Informatics (T
 description: MICCAI 2024 Workshop
 ---
 
+<a href="https://conferences.miccai.org/2024/"><img src="https://conferences.miccai.org/2024/files/images/layout/en/miccai2023-logo.png" alt width="70%"></a>
+
 <h1 style="text-align: center;">Important Dates</h1>
 
 |     Event      |                           Date                           |
