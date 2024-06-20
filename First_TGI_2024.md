@@ -10,7 +10,7 @@ description: MICCAI 2024 Workshop
 
 |     Event      |                           Date                           |
 |:-------------:|:---------------------------------------------------------:|
-| Full Paper Deadline |               June 24th, 2024; 11:59 PM PST               |
+| Full Paper Deadline |               June 30th, 2024; 11:59 PM PST               |
 | Notification of Acceptance |          July 15th, 2024; 11:59 PM PST           |
 | TGI3 workshop date |          October 10th, 2024 (MICCAI 2024 Day 2)           |
 
