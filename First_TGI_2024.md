@@ -22,7 +22,15 @@ description: MICCAI 2024 Workshop
 - Review: The review is double-blind. Reviewers will be chosen among experts in the medical image computing community.
 - Proceedings: Our workshop will be submission-based and we would like to publish the accepted papers as a part of the MICCAI Satellite Events joint LNCS proceedings.
 - Presentations: A few with the most original contributions will be selected for oral or poster presentations.
-- Camera-ready submission: Please follow the MICCAI'24 camera-ready guidelines to prepare your final version: <a href="https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html"> https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html</a>. Specifically, **the camera-ready version should be at most: 8.5 pages of main texts + 2 pages of references + 2 pages of supplementary materials**.  Stay tuned for more information.
+
+<h1 style="text-align: center;">Camera-ready submission</h1>
+Please follow the MICCAI'24 camera-ready guidelines to prepare your final version: <a href="https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html"> https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html</a>. Specifically, we require the following files:
+
+- Camera-ready paper: **should be at most 8.5 pages of main texts + 2 pages of references + 2 pages of supplementary materials**.
+- Changes after review.
+- Supplementary file
+- LaTeX source (if you are using LaTex)
+- **We are still working with Springer for LNCS proceedings. We might require a license to publish later (information will be updated here and via emails if needed)**. Stay tuned for more details.
 
 <h1 style="text-align: center;">Call For Submissions</h1>
 
