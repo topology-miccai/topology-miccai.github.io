@@ -28,7 +28,7 @@ Please follow the MICCAI'24 camera-ready guidelines to prepare your final versio
 
 - Camera-ready paper: **should be at most 8.5 pages of main texts + 2 pages of references + 2 pages of supplementary materials**.
 - Changes after review.
-- Supplementary file.
+- Supplementary file (a separate file from the main text).
 - LaTeX source (if you are using LaTex).
 - **We are still working with Springer for LNCS proceedings. We might require a license to publish later (information will be updated here and via emails if needed)**. Stay tuned for more details.
 
