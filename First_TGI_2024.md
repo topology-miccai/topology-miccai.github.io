@@ -24,7 +24,7 @@ description: MICCAI 2024 Workshop
 - Presentations: A few with the most original contributions will be selected for oral or poster presentations.
 
 <h1 style="text-align: center;">Camera-ready submission</h1>
-Please follow the MICCAI'24 camera-ready guidelines to prepare your final version: <a href="https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html"> https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html</a>. Specifically, we require the following files:
+Please follow the MICCAI'24 camera-ready guidelines to prepare your final version: <a href="https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html"> https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html</a>. Specifically, we require the following files (submit them to the CMT system via a single zip file):
 
 - Camera-ready paper: **should be at most 8.5 pages of main texts + 2 pages of references + 2 pages of supplementary materials**.
 - Changes after review.
