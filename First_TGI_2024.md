@@ -30,7 +30,7 @@ Please follow the MICCAI'24 camera-ready guidelines to prepare your final versio
 - Changes after review.
 - Supplementary file (a separate file from the main text).
 - LaTeX source (if you are using LaTex).
-- **Please ignore the 'License-To-Publish' at current stage**. We are still working with Springer for LNCS proceedings. We might require a License-To-Publish later (information will be updated here and via emails if needed). Stay tuned for more details.
+- **Please ignore the `License-To-Publish' at current stage**. We are still working with Springer for LNCS proceedings. We might require a License-To-Publish later (information will be updated here and via emails if needed). Stay tuned for more details.
 
 <h1 style="text-align: center;">Call For Submissions</h1>
 
