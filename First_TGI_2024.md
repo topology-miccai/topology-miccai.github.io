@@ -12,7 +12,7 @@ description: MICCAI 2024 Workshop
 |:-------------:|:---------------------------------------------------------:|
 | Full Paper Deadline         | <del>June 29th, 2024; 11:59 PM PST</del>  |
 | Notification of Acceptance  | <del>July 15th, 2024; 11:59 PM PST</del>  |
-| **Camera-ready Deadline**      | **July 30th, 2024; 11:59 PM PST**  |
+| Camera-ready Deadline      | <del>July 30th, 2024; 11:59 PM PST</del>  |
 | TGI3 workshop date          | October 10th, 2024 (MICCAI 2024 Satellite Events Day 2)    |
 
 <h1 style="text-align: center;">Submission Guidelines</h1>
