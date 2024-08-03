@@ -32,6 +32,9 @@ Please follow the MICCAI'24 camera-ready guidelines to prepare your final versio
 - LaTeX source (if you are using LaTex).
 - **Please ignore the 'License-To-Publish' at current stage**. We are still working with Springer for LNCS proceedings. We might require a License-To-Publish later (information will be updated here and via emails if needed). Stay tuned for more details.
 
+<h1 style="text-align: center;">Contact</h1>
+Feel free to email Xiaoling Hu (<a href="mailto:xihu3@mgh.harvard.edu">xihu3@mgh.harvard.edu</a>) or Chao Chen (<a href="mailto:chao.chen.1@stonybrook.edu">chao.chen.1@stonybrook.edu</a>) if you have any questions regarding the workshop.
+
 <h1 style="text-align: center;">Call For Submissions</h1>
 
 The significant advances in computational and data science over the past decade have had an immense impact on biomedical science and healthcare. Concurrently, researchers in the biomedical fields now face new challenges caused mainly by the nature of complex, often high-dimensional, noisy and diverse datasets.
@@ -66,7 +69,7 @@ We welcome submissions that present how TDA techniques, slowly or combined with 
 
 10. Scalable TDA methods for medical records
 
-11. Topological Structures for the Analysis of biomedical data
+11. Topological structures for the analysis of biomedical data
 * * *
 
 <h1 style="text-align: center;">Organizers</h1>
