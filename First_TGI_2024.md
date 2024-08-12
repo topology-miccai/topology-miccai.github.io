@@ -26,11 +26,11 @@ description: MICCAI 2024 Workshop
 <h1 style="text-align: center;">Camera-ready submission</h1>
 Please follow the MICCAI'24 camera-ready guidelines to prepare your final version: <a href="https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html"> https://conferences.miccai.org/2024/en/CAMERA-READY-SUBMISSION-GUIDELINES.html</a>. Specifically, we require the following files (submit them to the CMT system via a single zip file):
 
-- Camera-ready paper: **should be at most 8.5 pages of main texts + 2 pages of references + 2 pages of supplementary materials**.
+- Camera-ready paper: should be at most 8.5 pages of main texts + 2 pages of references + 2 pages of supplementary materials.
 - Changes after review.
 - Supplementary file (a separate file from the main text).
 - LaTeX source (if you are using LaTex).
-- **Please ignore the 'License-To-Publish' at current stage**. We are still working with Springer for LNCS proceedings. We might require a License-To-Publish later (information will be updated here and via emails if needed). Stay tuned for more details.
+- **License-To-Publish**. Please fill and sign the 'License to publish' <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">form</a>, which should include all authors names and title as they appear in the final PDF, the corresponding author's name, address, email and handwritten signature.
 
 <h1 style="text-align: center;">Contact</h1>
 Feel free to email Xiaoling Hu (<a href="mailto:xihu3@mgh.harvard.edu">xihu3@mgh.harvard.edu</a>) or Chao Chen (<a href="mailto:chao.chen.1@stonybrook.edu">chao.chen.1@stonybrook.edu</a>) if you have any questions regarding the workshop.
