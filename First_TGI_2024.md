@@ -30,7 +30,7 @@ Please follow the MICCAI'24 camera-ready guidelines to prepare your final versio
 - Changes after review.
 - Supplementary file (a separate file from the main text).
 - LaTeX source (if you are using LaTex).
-- **License-To-Publish**: Please fill and sign the <a href="./LicenseToPublish_TGI3.docx">'License to publish' form</a>, which should include all authors' names and title as they appear in the final PDF, the corresponding author’s name, address, email, and handwritten signature.
+- **License-To-Publish**: Please fill and sign the <a href="./LicenseToPublish_TGI3.docx">'License to publish' form</a>, which should include all authors' names and title as they appear in the final PDF, the corresponding author’s name, address, email, and handwritten signature. Note that the form should be completed and signed by the corresponding author of each paper, on behalf of all of the authors of that paper. The corresponding author, who must match the corresponding author marked on the paper, must have the full right, power, and authority to sign the agreement on behalf of all of the authors of a particular paper, and accepts responsibility for releasing this material on their behalf. 
 
 <h1 style="text-align: center;">Contact</h1>
 Feel free to email Xiaoling Hu (<a href="mailto:xihu3@mgh.harvard.edu">xihu3@mgh.harvard.edu</a>) or Chao Chen (<a href="mailto:chao.chen.1@stonybrook.edu">chao.chen.1@stonybrook.edu</a>) if you have any questions regarding the workshop.
