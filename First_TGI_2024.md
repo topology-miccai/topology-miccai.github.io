@@ -22,7 +22,7 @@ description: MICCAI 2024 Workshop
 |:-------------:|:---------------------------------------------------------:|
 | 13:30 - 13:40 | Welcome Remarks by **Chao Chen** |
 | 13:40 - 14:25 | Keynote 1: **Aasa Feragen** from Technical University of Denmark |
-| 14:25 - 15:30 | Oral Session – 15 min * 4 presentations | 
+| 14:30 - 15:30 | Oral Session – 15 min * 4 presentations | 
 | | *Multi-Factor Component Tree Loss Function: A Topology-Preserving Method for Skeleton Segmentation from Bone Scintigrams* by **Anh Nguyen**, Jean Cousty (ESIEE), Yukiko Kenmochi (CNRS), Shigeaki Higashiyama, Joji Kawabe, Akinobu Shimizu |
 | | *Deep Learning-based Liver Vessel Separation with plug-and-play modules: Skeleton Tracking and Graph Attention* by **Chenhao Pei** (Infervision), Wei Wang (Infervision), Huan Zhang (Infervision), Siyuan Yin (Infervision), Wen Tang (Infervision), Ming Meng (Infervision), Weinan Xiao (Infervision),  Hong Shen (Infervision) |
 | | *cDice: A Topology-Aware Dice Score Based on Connected Components* by **Pierre Rougé** (Université Reims Champagne-Ardenne, CRESTIC & INSA Lyon, CREATIS), Odyssée Merveille (Creatis), Nicolas Passat (Université Reims Champagne-Ardenne) |
