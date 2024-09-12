@@ -31,7 +31,7 @@ description: MICCAI 2024 Workshop
 | 16:00 - 16:45 | Keynote 2: **Moo K. Chung** from University of Wisconsin-Madison |
 | | *Aligning Asynchronous Human Brain Networks through Persistent Homology* |
 | 16:45 – 17:50 | Poster Session |
-| 17:50 - 18:00 | Closing Remark by **Xiaoling Hu** |
+| 17:50 - 18:00 | Closing Remarks by **Xiaoling Hu** |
 
 
 <h1 style="text-align: center;">Submission Guidelines</h1>
