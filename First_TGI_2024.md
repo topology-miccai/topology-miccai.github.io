@@ -22,6 +22,7 @@ description: MICCAI 2024 Workshop
 |:-------------:|:---------------------------------------------------------:|
 | 13:30 - 13:40 | Welcome Remarks by **Chao Chen** |
 | 13:40 - 14:25 | Keynote 1: **Aasa Feragen** from Technical University of Denmark |
+| | *Extracting and analyzing curvilinear structures from low quality images* |
 | 14:30 - 15:30 | Oral Session – 15 min * 4 presentations | 
 | | *Multi-Factor Component Tree Loss Function: A Topology-Preserving Method for Skeleton Segmentation from Bone Scintigrams* by **Anh Nguyen**, Jean Cousty (ESIEE), Yukiko Kenmochi (CNRS), Shigeaki Higashiyama, Joji Kawabe, Akinobu Shimizu |
 | | *Deep Learning-based Liver Vessel Separation with plug-and-play modules: Skeleton Tracking and Graph Attention* by **Chenhao Pei** (Infervision), Wei Wang (Infervision), Huan Zhang (Infervision), Siyuan Yin (Infervision), Wen Tang (Infervision), Ming Meng (Infervision), Weinan Xiao (Infervision),  Hong Shen (Infervision) |
