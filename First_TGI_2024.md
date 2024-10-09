@@ -20,6 +20,7 @@ description: MICCAI 2024 Workshop
 
 |     Time      |                           Topic                           |
 |:-------------:|:---------------------------------------------------------:|
+|     **Location**  |                           **Jade room at Palmeraie Palace**                            |
 | 13:30 - 13:40 | Welcome Remarks by **Chao Chen** |
 | 13:40 - 14:25 | Keynote 1: **Aasa Feragen** from Technical University of Denmark |
 | | *Extracting and analyzing curvilinear structures from low quality images* |
@@ -31,9 +32,23 @@ description: MICCAI 2024 Workshop
 | 15:30 - 16:00 | Coffee Break | 
 | 16:00 - 16:45 | Keynote 2: **Moo K. Chung** from University of Wisconsin-Madison |
 | | *Aligning Asynchronous Human Brain Networks through Persistent Homology* |
-| 16:45 – 17:50 | Poster Session |
+| 16:45 – 17:50 (Main poster room) | Poster Session |
 | 17:50 - 18:00 | Closing Remarks by **Xiaoling Hu** |
 
+
+<h1 style="text-align: center;">Poster Schedule</h1>
+
+|     ID      |                           Title                           |
+|:-------------:|:---------------------------------------------------------:|
+| 1 | Analyzing Brain Tumor Connectomics using Graphs and Persistent Homology |
+| 2 | A Bispectral 3D UNet for Rotation Robustness in Medical Segmentation |
+| 3 | Restoring Connectivity in Vascular Segmentations using a Learned Post-Processing Model |
+| 4 | Exploitation of Mapper Algorithm in Neuroimaging Applications: A Novel Framework for Outcomes Prediction |
+| 5 | Topological data analysis of resting-state fMRI suggests altered brain network topology in Functional Dyspepsia: A Mapper-based parcellation approach |
+| 6 | P-Count: Persistence-based Counting of White Matter Hyperintensities in Brain MRI |
+| 7 | Outlier Detection in Large Radiological Datasets using UMAP |
+| 8 | A Topological Comparison of the Fluorescence Imitating Brightfield Imaging and H&E Imaging |
+| 9 | Topological Analysis of Seizure-Induced Changes in Brain Hierarchy Through Effective Connectivity |
 
 <h1 style="text-align: center;">Submission Guidelines</h1>
 
