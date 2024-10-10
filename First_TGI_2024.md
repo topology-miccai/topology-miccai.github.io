@@ -24,17 +24,18 @@ description: MICCAI 2024 Workshop
 | 13:30 - 13:40 | Welcome Remarks by **Chao Chen** |
 | 13:40 - 14:25 | Keynote 1: **Aasa Feragen** from Technical University of Denmark |
 | | *Extracting and analyzing curvilinear structures from low quality images* |
-| 14:30 - 15:30 | Oral Session – 15 min * 4 presentations | 
+| 14:30 - 15:00 | Oral Session – 15 min * 4 presentations | 
 | | *Multi-Factor Component Tree Loss Function: A Topology-Preserving Method for Skeleton Segmentation from Bone Scintigrams* by **Anh Nguyen**, Jean Cousty (ESIEE), Yukiko Kenmochi (CNRS), Shigeaki Higashiyama, Joji Kawabe, Akinobu Shimizu |
-| | *Deep Learning-based Liver Vessel Separation with plug-and-play modules: Skeleton Tracking and Graph Attention* by **Chenhao Pei** (Infervision), Wei Wang (Infervision), Huan Zhang (Infervision), Siyuan Yin (Infervision), Wen Tang (Infervision), Ming Meng (Infervision), Weinan Xiao (Infervision),  Hong Shen (Infervision) |
 | | *cDice: A Topology-Aware Dice Score Based on Connected Components* by **Pierre Rougé** (Université Reims Champagne-Ardenne, CRESTIC & INSA Lyon, CREATIS), Odyssée Merveille (Creatis), Nicolas Passat (Université Reims Champagne-Ardenne) |
-| | *TopOC: Topological Deep Learning for Ovarian and Breast Cancer Diagnosis* by Saba Fatema (University of Texas at Dallas), Brighton Nuwagira, Sayoni Chakraborty (The University of Texas at Dallas), Reyhan Gedik (MGH), **Baris Coskunuzer** (University of Texas at Dallas) |
-| 15:30 - 16:00 | Coffee Break | 
-| 16:00 - 16:45 | Keynote 2: **Moo K. Chung** from University of Wisconsin-Madison |
+| 15:00 - 15:45 | Keynote 2: **Moo K. Chung** from University of Wisconsin-Madison |
 | | *Aligning Asynchronous Human Brain Networks through Persistent Homology* |
-| 16:45 – 17:50 (Main poster room) | Poster Session |
-| 17:50 - 18:00 | Closing Remarks by **Xiaoling Hu** |
+| 15:45 - 16:30 | Coffee Break | 
+| 16:30 – 17:30 (Main poster room) | Poster Session |
 
+<!---
+| | *Deep Learning-based Liver Vessel Separation with plug-and-play modules: Skeleton Tracking and Graph Attention* by **Chenhao Pei** (Infervision), Wei Wang (Infervision), Huan Zhang (Infervision), Siyuan Yin (Infervision), Wen Tang (Infervision), Ming Meng (Infervision), Weinan Xiao (Infervision),  Hong Shen (Infervision) |
+| | *TopOC: Topological Deep Learning for Ovarian and Breast Cancer Diagnosis* by Saba Fatema (University of Texas at Dallas), Brighton Nuwagira, Sayoni Chakraborty (The University of Texas at Dallas), Reyhan Gedik (MGH), **Baris Coskunuzer** (University of Texas at Dallas) |
+-->
 
 <h1 style="text-align: center;">Poster Schedule</h1>
 
