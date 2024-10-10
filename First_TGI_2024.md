@@ -25,8 +25,8 @@ description: MICCAI 2024 Workshop
 | 13:40 - 14:25 | Keynote 1: **Aasa Feragen** from Technical University of Denmark |
 | | *Extracting and analyzing curvilinear structures from low quality images* |
 | 14:30 - 15:00 | Oral Session – 15 min * 4 presentations | 
-| | *Multi-Factor Component Tree Loss Function: A Topology-Preserving Method for Skeleton Segmentation from Bone Scintigrams* by **Anh Nguyen**, Jean Cousty (ESIEE), Yukiko Kenmochi (CNRS), Shigeaki Higashiyama, Joji Kawabe, Akinobu Shimizu |
-| | *cDice: A Topology-Aware Dice Score Based on Connected Components* by **Pierre Rougé** (Université Reims Champagne-Ardenne, CRESTIC & INSA Lyon, CREATIS), Odyssée Merveille (Creatis), Nicolas Passat (Université Reims Champagne-Ardenne) |
+| | *Multi-Factor Component Tree Loss Function: A Topology-Preserving Method for Skeleton Segmentation from Bone Scintigrams* by **Anh Nguyen** (Tokyo University of Agriculture and Technology), Jean Cousty (ESIEE), Yukiko Kenmochi (CNRS), Shigeaki Higashiyama, Joji Kawabe, Akinobu Shimizu |
+| | *ccDice: A Topology-Aware Dice Score Based on Connected Components* by **Pierre Rougé** (Université Reims Champagne-Ardenne, CRESTIC & INSA Lyon, CREATIS), Odyssée Merveille (Creatis), Nicolas Passat (Université Reims Champagne-Ardenne) |
 | 15:00 - 15:45 | Keynote 2: **Moo K. Chung** from University of Wisconsin-Madison |
 | | *Aligning Asynchronous Human Brain Networks through Persistent Homology* |
 | 15:45 - 16:30 | Coffee Break | 
