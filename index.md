@@ -14,7 +14,7 @@ layout: default
 
 **Workshop**: [The First Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](First_TGI_2024.md)
 
-[Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](Second_TGI_2025.md)
+[Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](TGI_2025.md)
 
 |     Time      |                           Topic                           |       Presenter      |
 |:-------------:|:---------------------------------------------------------:|:--------------------:|
