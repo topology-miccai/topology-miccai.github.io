@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Second Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)
+title: Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)
 description: MICCAI 2025 Workshop
 ---
 
